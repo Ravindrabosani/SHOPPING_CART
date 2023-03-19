@@ -1,0 +1,16 @@
+#hii{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    padding: 10px;
+   
+}
+#helo{
+    text-align: center;
+    border: 1px solid black;
+    padding: 15px;
+    background-color: rgb(199, 98, 61);
+}
+#hel{
+    width: 60%;
+    padding: 10px;
+}
